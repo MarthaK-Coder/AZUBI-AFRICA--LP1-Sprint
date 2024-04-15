@@ -1,5 +1,13 @@
-# AZUBI-AFRICA--LP1-Sprint
-This repository contains LP1 Sprint from the Azubi Africa Program.
+# **INDIAN STARTUP ECOSYSTEMS ANALYSIS USING POWERBI** 
+
+<div align="center">
+
+[![Python](https://img.shields.io/badge/Python-3.8.5-green?style=flat-square&logo=python)](https://www.python.org/)
+[![PowerBI](https://img.shields.io/badge/PowerBI-Your_Version_Here-blue?style=flat-square&logo=powerbi)](https://powerbi.microsoft.com/)
+
+</div>
+
+
 # Introduction/Objective:
 In this project, we set out on a data-driven tour of India's thriving and constantly changing startup funding scene. This project's primary goal is to examine and comprehend the changing funding environment for Indian entrepreneurs. We will use data analysis and visualization techniques to identify critical trends, the best-funded businesses, industries, and regions, and acquire an understanding of the funding trends that have influenced India's startup ecosystem.
 
